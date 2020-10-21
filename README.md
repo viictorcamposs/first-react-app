@@ -1,68 +1,47 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+  <img src="public/readme/react.png" alt="Launchstore" width="500">
 
-## Available Scripts
+<h2> <img src= "https://img.icons8.com/plasticine/2x/rocket.png" width="50px" height="50px" align="center"/> Projeto:</h2>
 
-In the project directory, you can run:
+<p> Aplicação interativa de um jogo-da-velha.
+</p>
+<p><strong>Tecnologias utilizadas:</strong></p>
+ <ul>
+    <li>Reactjs</li>
+    <li>CSS</li>
+    <li>JSX</li>
+</ul>
 
-### `yarn start`
+<strong>Objetivo:</strong>
+<p> 
+Conhecer mais sobre a biblioteca JavaScript.
+Aprender as técnicas fundamentais para criar qualquer aplicativo React, como:</p>
+<uL>
+  <li>Componentes e Props</li>
+  <li>Renderização de elementos JSX</li>
+  <li>State e ciclo de vida, etc.</li>
+</ul>
+<br />
+<h2> <img src="https://i.dlpng.com/static/png/6577858_preview.png" width="50px" align="center"/>
+Como utilizar:</h2>
+<p> Você precisa ter em sua máquina um editor de texto de sua preferência e um gerenciador de pacotes.</p>
+   
+<h3> Passos <h3>
+<h4> 1. Clonar repositório <h4>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```
+ $ git clone https://github.com/viictorcamposs/first-react-app
+```
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<h4> 2. Executar o aplicativo no seu terminal <h4>
 
-### `yarn test`
+```
+#Iniciar o servidor 
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+$ yarn start
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+```
+<br />
+<h2><img src="https://static.thenounproject.com/png/25759-200.png"width="50px" height="50px" align="center"/> Resultado</h2>
+<br />
+<img src="public/readme/react.gif"/>
